@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoyoxueli123
 - 👀 I’m interested in neuroscience - neuroimaging data analysis
 - 🌱 I’m currently learning matlab & python & machine learning and deep learning
-- 💞️ I’m looking to collaborate on people who engage in neuroscience, including 
+- 💞️ I’m looking to collaborate on people who engage in neuroscience, including neuroimaging, machine learning
 - 📫 How to reach me ...please reach me via my gmail: xueliseu@gmail.com
 
 <!---
